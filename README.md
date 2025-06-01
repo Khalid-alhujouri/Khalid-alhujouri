@@ -66,7 +66,9 @@ I combine skills in machine learning, data analysis, and cybersecurity to build 
 
 ## 📚 Certifications
 - 🎓 NDG Linux Essentials  
-- 📡 Network+  
+- 📡 CompTIA Network+  
+- 📊 **STC Data Analytics Certificate**  
+- 🛡️ **Cybersecurity Incident Response Analysis Certificate**  
 - 📊 IBM Big Data 101  
 - 🤖 Data Science & AI Track – Satr Platform  
 - 🛠️ Java Parallel Programming  
@@ -77,8 +79,8 @@ I combine skills in machine learning, data analysis, and cybersecurity to build 
 ## 📫 Contact Me
 <p>
   📧 khalid.alhujouri@gmail.com  
-  💼 <a href="https://www.linkedin.com/in/اسم-المستخدم-هنا" target="_blank">LinkedIn</a>  
-  🐙 <a href="https://github.com/اسم-مستخدمك" target="_blank">GitHub</a>
+  💼 <a href="https://www.linkedin.com/in/khalid-alhujouri/" target="_blank">LinkedIn</a>  
+  🐙 <a href="https://github.com/Khalid-alhujouri" target="_blank">GitHub</a>
 </p>
 
 ---
